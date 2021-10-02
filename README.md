@@ -1,0 +1,1 @@
+This project is a dummy landing page to put together the css and html skills that I have gathered up until this point. 
