@@ -16,10 +16,21 @@
     font-weight: bold;
 }
 
+ a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
 .heromain {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
 }
 
 .card {
@@ -35,10 +46,16 @@
 
 .quote {
     font-size: 36px;
-    font-style: italic;
+    font-style: italic;    
+    color: #1F2937;
 }
 
-.topbutt, .bottbutt, .CTAbox {
+.author {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
+.topbutt, .botbutt, .CTAbox {
     background-color: #3882F6;
 }
-
